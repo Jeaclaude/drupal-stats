@@ -1,0 +1,16 @@
+{
+  "sucessCall": [
+    { "id": 1, "title": "sucessCall 1" },
+    { "id": 2, "title": "sucessCall 2" },
+    { "id": 3, "title": "sucessCall 3" }
+  ],
+  "missCall": [
+    { "id": 1, "body": "missCall", "postId": 1 },
+    { "id": 2, "body": "missCall", "postId": 1 },
+    { "id": 1, "body": "missCall", "postId": 1 },
+    { "id": 2, "body": "missCall", "postId": 1 }
+  ],
+  "TimeCall": {
+    "moyenne": "date de l'appel : 3 min 15 s"
+  }
+}
